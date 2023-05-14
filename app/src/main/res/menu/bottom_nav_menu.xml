@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kasir"
+        android:title="Kasir"
+        android:icon="@drawable/baseline_shopping_cart_24"/>
+    <item
+        android:id="@+id/add"
+        android:title="Tambah Item"
+        android:icon="@drawable/baseline_add_shopping_cart_24"/>
+    <item
+        android:id="@+id/riwayat"
+        android:title="Riwayat"
+        android:icon="@drawable/baseline_history_24"/>
+</menu>
